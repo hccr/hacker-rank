@@ -25,3 +25,5 @@ hs_err_pid*
 /HackerRank.iml
 /.idea/
 /target/
+
+.DS_Store
